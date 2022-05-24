@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on nollk.it
+- 🔭 I’m currently working on [nollk.it](https://github.com/cthit/nollk.it)
 
 
+
+Currently a part of [digIT](https://github.com/cthit)
 
 ### Previous Committees
-- Eventchef - NollKIT'21
+- Eventchef - NollKIT'21 <img src="nollbricka.png" alt="nollbricka" width="20"/>
+
+
+
 <!--
 **daancs/daancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
