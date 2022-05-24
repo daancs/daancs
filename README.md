@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🔭 I’m currently working on nollk.it
+
+
+
+### Previous Committees
+- Eventchef - NollKIT'21
 <!--
 **daancs/daancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
