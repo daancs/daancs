@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [nollk.it](https://github.com/cthit/nollk.it)
-
-
+- Currently working on several different minor projects
 
 Currently a part of [Mottagningskommittén MK](https://mk.chs.chalmers.se) as PR
 
@@ -10,6 +8,9 @@ Currently a part of [Mottagningskommittén MK](https://mk.chs.chalmers.se) as PR
 - PR - [digIT'22](https://github.com/cthit) 
 - Eventchef - NollKIT'21 <img src="nollbricka.png" alt="nollbricka" width="20"/>
 
+
+### Previous projects
+- [nollk.it](https://github.com/cthit/nollk.it)
 
 
 <!--
