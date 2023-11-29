@@ -10,7 +10,7 @@ Currently a part of [Mottagningskommittén MK](https://mk.chs.chalmers.se) as PR
 
 
 ### Previous projects
-- [nollk.it](https://github.com/cthit/nollk.it)
+- [nollk.it](https://github.com/cthit/nollk.it) deployed at https://nollk.it
 
 
 <!--
