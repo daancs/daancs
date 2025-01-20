@@ -2,9 +2,8 @@
 
 - Currently working on several different minor projects
 
-Currently a part of [Mottagningskommittén MK](https://mk.chs.chalmers.se) as PR
-
 ### Previous Committees
+- Head of Public Relations (PR) [Mottagningskommittén MK](https://mk.chs.chalmers.se)
 - PR - [digIT'22](https://github.com/cthit) 
 - Eventchef - NollKIT'21 <img src="nollbricka.png" alt="nollbricka" width="20"/>
 
